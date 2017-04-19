@@ -5,7 +5,7 @@
 
 Hello community, 
 
-thanks that you want to report and contribute for Torment-WoW!
+thanks that you want to report and contribute for Shingra-WoW!
 
 Please use the issuetemplate below to report a new issue.
 
